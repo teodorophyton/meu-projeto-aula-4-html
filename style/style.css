@@ -2,3 +2,18 @@
     width: 100%;
     height: 300px;
 }
+
+#descricao {
+    width: 800px;
+}
+
+#perfil {
+    width: 282px;
+    height: 269px;
+    border: 2px solid rgb(5, 238, 255);
+    border-radius: 50%;
+}
+
+.boxtexto {
+    margin-left: 50px;
+}
